@@ -1,0 +1,4 @@
+enum StatusPosition {
+  top,
+  bottom,
+}
